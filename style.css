@@ -246,7 +246,7 @@ padding: 5rem 2rem;
 .ready-to-simplify{
     background-color: green;
     border-radius: 1rem;
-    margin: 5rem;
+    margin: 2rem;
     
 }
 .ready-to-simplify-content{
@@ -254,7 +254,7 @@ padding: 5rem 2rem;
     justify-content: center;
     flex-direction: column;
     gap: 2rem;
-    padding: 5rem;
+    padding: 2rem;
     color: white;
 }
 .ready-to-simplify-content h3{
